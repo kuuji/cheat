@@ -1,2 +1,6 @@
 # cheat
-docker for cheat sheet python
+Docker for https://github.com/chrisallenlane/cheat
+
+example :
+
+`docker run --rm kuuji/cheat tar`
